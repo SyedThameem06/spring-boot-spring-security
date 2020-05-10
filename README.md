@@ -27,4 +27,4 @@ Use the following credentials(Basic Auth in postman) and URL.
   URL - http://localhost:8082/api/getproductdetails
   Method - GET
   UserName - USER
-  Password - gfgh-22ee-akbe-t12l.
+  Password - gfgh-22ee-akbe-t12l
